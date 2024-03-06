@@ -1,4 +1,6 @@
-# Lau Ling Thiam (Iss)
+# Portfolio
+
+# Lau Ling Thiam (Issac)
 *Data Analyst* | *The goal is to turn data into information, and information into insight*
 
 # Education
