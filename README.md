@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, R-programming, SQL, Power BI, 
+#### Technical Skills: Python, R-programming, SQL, Power BI, NLP
 
 ## Education
 * M.S., Data Science and Analytics, Universiti Sains Malaysia (USM), 2019-2021
