@@ -1,5 +1,4 @@
-# Lau Ling Thiam (Issac)
-*Data Analyst* | *"The goal is to turn data into information, and information into insight"*
+# Data Analyst
 
 # Education
 * M.S., Data Science and Analytics, *Universiti Sains Malaysia (USM)*, 2019-2021
