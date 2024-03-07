@@ -11,7 +11,7 @@
 
 Photo by <a href="https://unsplash.com/@thepuzzlers_damian?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Damian Hutter</a> on <a href="https://unsplash.com/photos/two-american-airlines-planes-on-airport-4jUK5aiSNPM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-This project conducted sentiment analysis on a dataset – U.S airline tweets retrieved from Kaggle. A comparison between Lexicon-based approach, particularly TextBlob and Vader, with machine learning-based classifiers like Naïve Bayes, support vector machine, and neural network.
+This project conducted sentiment analysis on a dataset – U.S airline tweets retrieved from [Kaggle](https://www.kaggle.com/datasets/tango911/airline-sentiment-tweets). A comparison between Lexicon-based approach, particularly TextBlob and Vader, with machine learning-based classifiers like Naïve Bayes, support vector machine, and neural network.
 * **Python libraries used:** Pandas, Matplotlib, Wordcloud, Natural Language Toolkit (NLTK), Textblob, Vader
 * **Input:** Tweets
 * **Output:** Sentiment of Tweets
