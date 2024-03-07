@@ -6,7 +6,7 @@
 * M.S., Data Science and Analytics, Universiti Sains Malaysia (USM), 2019-2021
 * B.S., Statistical Computing and Operations Research, Universiti Tunku Abdul Rahman (UTAR), 2014-2017
 
-# [Project 1: Sentiment Analysis on U.S Airline Tweets ](https://www.youtube.com/watch?v=6NXLGP65S2Q)
+# [Project 1: Sentiment Analysis on U.S Airline Tweets](https://www.youtube.com/watch?v=6NXLGP65S2Q)
 ![alt text](damian-hutter-4jUK5aiSNPM-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@thepuzzlers_damian?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Damian Hutter</a> on <a href="https://unsplash.com/photos/two-american-airlines-planes-on-airport-4jUK5aiSNPM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -16,7 +16,15 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 * **Input:** Tweets
 * **Output:** Sentiment of Tweets
 
+# [Project 2: Music Genre Classification for Spotify Tracks](https://www.youtube.com/watch?v=6NXLGP65S2Q)
+![alt text](thibault-penin-b5ioGEe8j04-unsplash.jpg)
 
+Photo by <a href="https://unsplash.com/@thibaultpenin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thibault Penin</a> on <a href="https://unsplash.com/photos/a-person-holding-a-laptop-in-the-dark-b5ioGEe8j04?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+This project focus on classification of the Spotify tracks into their respective music genre by looking at the spotify features such as valence, danceability, energy, acousticness, speechiness and others. Algorithms used for modeling include K-Nearest Neighbors (KNN), Naïve Bayes, and Neural Network (multi-layer Perceptron).
+* **Python libraries used:** Pandas, Matplotlib, Wordcloud, Natural Language Toolkit (NLTK), Textblob, Vader
+* **Input:** Tweets
+* **Output:** Sentiment of Tweets
 
 
   
