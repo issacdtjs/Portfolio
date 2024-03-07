@@ -21,10 +21,10 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 
 Photo by <a href="https://unsplash.com/@thibaultpenin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thibault Penin</a> on <a href="https://unsplash.com/photos/a-person-holding-a-laptop-in-the-dark-b5ioGEe8j04?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-This project focus on classification of the Spotify tracks into their respective music genre by looking at the spotify features such as valence, danceability, energy, acousticness, speechiness and others. Algorithms used for modeling include K-Nearest Neighbors (KNN), Naïve Bayes, and Neural Network (multi-layer Perceptron).
-* **Python libraries used:** Pandas, Matplotlib, Wordcloud, Natural Language Toolkit (NLTK), Textblob, Vader
-* **Input:** Tweets
-* **Output:** Sentiment of Tweets
+This project focus on classification of the Spotify tracks into their respective music genre by looking at the spotify features such as valence, danceability, energy, acousticness, speechiness and others. Algorithms used for modeling include K-Nearest Neighbors (KNN), Naïve Bayes, and Neural Network (multi-layer Perceptron). Dataset used are retrieved from [Kaggle](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
+* **Python libraries used:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+* **Input:** Spotify Tracks
+* **Output:** Music Genre
 
 
   
