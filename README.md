@@ -16,7 +16,7 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 * **Input:** Tweets
 * **Output:** Sentiment of Tweets
 
-#### Web Application Deploy
+#### Model Deploy
 Link: https://sentiment-analysis-tweets.streamlit.app/
 
 # [Project 2: Music Genre Classification for Spotify Tracks](https://www.youtube.com/watch?v=6NXLGP65S2Q)
