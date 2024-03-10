@@ -16,10 +16,10 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 * **Input:** Tweets
 * **Output:** Sentiment of Tweets
 
-#### Model Deploy as Web App
+#### Model Deploy as Web App:
 <https://sentiment-analysis-tweets.streamlit.app/>
 
-**Project Source Code:** 
+#### Project Source Code: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Sentiment-Analysis/main?labpath=SentimentAnalysis.ipynb)
 
 # [Project 2: Music Genre Classification for Spotify Tracks](https://www.youtube.com/watch?v=6NXLGP65S2Q)
