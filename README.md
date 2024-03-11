@@ -1,6 +1,17 @@
 # Data Analyst
 
-#### Technical Skills: Python, R-programming, SQL, Power BI, NLP
+## Technical Skills & Stacks
+Tech skills & stacks
+* Programming Languages: Python, R, SQL
+* Statistical Analysis & Machine Learning Tools: Excel, SPSS, Minitab, Weka, RapidMiner
+-Data Collection: Web Scraping (Baeautiful Soup, Scrapy, Selenium)
+-Data Querying: SQL Server Management Studio
+-Data Cleaning & Transformation: Excel, Python
+-Data Manipulation & Analysis: Pandas, Numpy
+-Data Visualization: Matplotlib, Seaborn, Power BI, Tableau, MicroStrategy
+-Machine Learning Skills: Classification, Outlier Detection, Recommender System, Sentiment Analysis
+-Deployment: Streamlit
+-IDEs & Text Editors: Jupter Notebook, Microsoft Visual Studio, RStudio, PyCharm
 
 ## Education
 * M.S., Data Science and Analytics, Universiti Sains Malaysia (USM), 2019-2021
