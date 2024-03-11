@@ -1,8 +1,7 @@
 # Data Analyst
 
 ## Technical Skills & Stacks
-Tech skills & stacks
-* Programming Languages: Python, R, SQL
+* **Programming Languages:**  Python, R, SQL
 * Statistical Analysis & Machine Learning Tools: Excel, SPSS, Minitab, Weka, RapidMiner
 -Data Collection: Web Scraping (Baeautiful Soup, Scrapy, Selenium)
 -Data Querying: SQL Server Management Studio
