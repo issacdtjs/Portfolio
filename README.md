@@ -2,7 +2,7 @@
 
 ## Technical Skills & Stacks
 * **Programming Languages:**  Python, R, SQL
-* Statistical Analysis & Machine Learning Tools: Excel, SPSS, Minitab, Weka, RapidMiner
+* **Statistical Analysis & ML Tools:** Excel, SPSS, Minitab, Weka, RapidMiner
 -Data Collection: Web Scraping (Baeautiful Soup, Scrapy, Selenium)
 -Data Querying: SQL Server Management Studio
 -Data Cleaning & Transformation: Excel, Python
