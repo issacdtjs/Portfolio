@@ -3,14 +3,14 @@
 ## Technical Skills & Stacks
 * **Programming Languages:** Python, R, SQL
 * **Statistical Analysis & ML Tools:** Excel, SPSS, Minitab, Weka, RapidMiner
-* **Data Collection:** Web Scraping (Baeautiful Soup, Scrapy, Selenium)
+* **Data Collection:** Web Scraping (Beautiful Soup, Scrapy, Selenium)
 * **Data Querying:** SQL Server Management Studio
 * **Data Cleaning & Transformation:** Excel, Python
 * **Data Manipulation & Analysis:** Pandas, Numpy
 * **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau, MicroStrategy
 * **ML Skills:** Classification, Outlier Detection, Recommender System, Sentiment Analysis
 * **Deployment:** Streamlit
-* **IDEs & Text Editors:** Jupter Notebook, Microsoft Visual Studio, RStudio, PyCharm
+* **IDEs & Text Editors:** Jupyter Notebook, Microsoft Visual Studio, RStudio, PyCharm
 
 ## Education
 * M.S., Data Science and Analytics, Universiti Sains Malaysia (USM), 2019-2021
