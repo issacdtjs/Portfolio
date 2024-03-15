@@ -32,7 +32,7 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 #### Project Source Code: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Portfolio/main?labpath=SentimentAnalysis.ipynb)
 
-# [Project 2: Anomaly Detection of Carbon Dioxide Flux using Unsupervised Outlier Detection Algorithms](https://www.youtube.com/watch?v=6NXLGP65S2Q)
+# [Project 2: Anomaly Detection of Carbon Dioxide Flux using Unsupervised Outlier Detection Algorithms](https://github.com/issacdtjs/Outlier-Detection)
 ![alt text](tyler-casey-ficbiwfOPSo-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@tylercaseyprod?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tyler Casey</a> on <a href="https://unsplash.com/photos/white-windmill-during-daytime-ficbiwfOPSo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
