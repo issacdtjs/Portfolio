@@ -37,7 +37,7 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 
 Photo by <a href="https://unsplash.com/@tylercaseyprod?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tyler Casey</a> on <a href="https://unsplash.com/photos/white-windmill-during-daytime-ficbiwfOPSo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-This project aims to compare different Unsupervised Outlier Detection Algorithms using a dataset to identify anomalies in carbon dioxide flux. The best model hence will integrate into the client’s system for detection of future anomalous carbon dioxide flux. Flux data are measured and collected using the Eddy Covariance (EC) approach that has been set up at the Centre for Marine and Coastal Studies (CEMACS), Penang, Malaysia. View more at website: <http://atmosfera.usm.my/>.
+<p style='text-align: justify;'>This project aims to compare different Unsupervised Outlier Detection Algorithms using a dataset to identify anomalies in carbon dioxide flux. The best model hence will integrate into the client’s system for detection of future anomalous carbon dioxide flux. Flux data are measured and collected using the Eddy Covariance (EC) approach that has been set up at the Centre for Marine and Coastal Studies (CEMACS), Penang, Malaysia. View more at website: <http://atmosfera.usm.my/>. </p>
 
 # [Project 3: Music Genre Classification for Spotify Tracks](https://www.youtube.com/watch?v=6NXLGP65S2Q)
 ![alt text](thibault-penin-b5ioGEe8j04-unsplash.jpg)
