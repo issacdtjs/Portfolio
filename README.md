@@ -42,7 +42,7 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 
 Photo by <a href="https://unsplash.com/@tylercaseyprod?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tyler Casey</a> on <a href="https://unsplash.com/photos/white-windmill-during-daytime-ficbiwfOPSo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-This project aims to compare different Unsupervised Outlier Detection Algorithms using a dataset to identify anomalies in carbon dioxide flux. The best model hence will integrate into the client’s system for detection of future anomalous carbon dioxide flux. Flux data are measured and collected using the Eddy Covariance (EC) approach that has been set up at the Centre for Marine and Coastal Studies (CEMACS), Penang, Malaysia. View more at website: <http://atmosfera.usm.my/>.
+This project aims to compare different unsupervised outlier detection algorithms using a dataset to identify anomalies in carbon dioxide flux. Candidate models considered include k-Nearest Neighbor Global (k-NN Global), Local Outlier Factor (LOF), Density-based Spatial Clustering of Application with Noise (DBSCAN), Isolation Forest (IF), and One-Class Support Vector Machine (OC-SVM). The best model in terms of area under the curve receiver operating characteristic (AUC-ROC) hence will integrate into the client’s system for detection of future anomalous carbon dioxide flux. Flux data are measured and collected using the Eddy Covariance (EC) approach that has been set up at the Centre for Marine and Coastal Studies (CEMACS), Penang, Malaysia. View more at website: <http://atmosfera.usm.my/>.
 
 #### Project Source Code
 #### Statistical-based labeling:
