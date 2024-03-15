@@ -43,6 +43,9 @@ This project aims to compare different Unsupervised Outlier Detection Algorithms
 #### Statistical-based labeling:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Outlier-Detection/main?labpath=Outlier+Detection+%28Statistical-based+labeling%29.ipynb)
 
+#### Quality Expert Opinion labeling:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Outlier-Detection/main?labpath=Outlier+Detection+%28Quality+Expert+Opinion+Labeling%29.ipynb)
+
 # [Project 3: Music Genre Classification for Spotify Tracks](https://www.youtube.com/watch?v=6NXLGP65S2Q)
 ![alt text](thibault-penin-b5ioGEe8j04-unsplash.jpg)
 
