@@ -16,7 +16,7 @@
 * M.S., Data Science and Analytics, Universiti Sains Malaysia (USM), 2019-2021
 * B.S., Statistical Computing and Operations Research, Universiti Tunku Abdul Rahman (UTAR), 2014-2017
 
-# [Project 1: Sentiment Analysis on U.S Airline Tweets](https://www.youtube.com/watch?v=6NXLGP65S2Q)
+# [Project 1: Sentiment Analysis on U.S Airline Tweets](https://github.com/issacdtjs/Sentiment-Analysis)
 ![alt text](damian-hutter-4jUK5aiSNPM-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@thepuzzlers_damian?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Damian Hutter</a> on <a href="https://unsplash.com/photos/two-american-airlines-planes-on-airport-4jUK5aiSNPM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
