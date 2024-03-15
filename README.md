@@ -57,4 +57,4 @@ This project focus on classification of the Spotify tracks into their respective
 * **Output:** Music Genre
 
 #### Project Source Code:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Portfolio/main?labpath=MusicGenreClassification.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Music-Genre-Classification/main?labpath=MusicGenreClassification.ipynb)
