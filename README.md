@@ -1,5 +1,14 @@
 # Data Analyst
 
+## Education
+* M.S., Data Science and Analytics, Universiti Sains Malaysia (USM), 2019-2021
+* B.S., Statistical Computing and Operations Research, Universiti Tunku Abdul Rahman (UTAR), 2014-2017
+
+## Certifications
+* Microsoft Power BI Data Analyst
+* INTEL AI Academy
+* CIMB Data Science Challenge 2016
+
 ## Technical Skills & Stacks
 * **Programming Languages:** Python, R, SQL
 * **Statistical Analysis & ML Tools:** Excel, SPSS, Minitab, Weka, RapidMiner
@@ -11,10 +20,6 @@
 * **ML Skills:** Classification, Outlier Detection, Recommender System, Sentiment Analysis
 * **Deployment:** Streamlit
 * **IDEs & Text Editors:** Jupyter Notebook, Microsoft Visual Studio, RStudio, PyCharm
-
-## Education
-* M.S., Data Science and Analytics, Universiti Sains Malaysia (USM), 2019-2021
-* B.S., Statistical Computing and Operations Research, Universiti Tunku Abdul Rahman (UTAR), 2014-2017
 
 # [Project 1: Sentiment Analysis on U.S Airline Tweets](https://github.com/issacdtjs/Sentiment-Analysis)
 ![alt text](damian-hutter-4jUK5aiSNPM-unsplash.jpg)
