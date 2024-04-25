@@ -21,6 +21,11 @@
 * **Deployment:** Streamlit
 * **IDEs & Text Editors:** Jupyter Notebook, Microsoft Visual Studio, RStudio, PyCharm
 
+# [Project 1: AWS Wild Rydes Web Application](https://master.ddxhjbawnsgzo.amplifyapp.com)
+![alt text](0_dtPCgYOnAk4VzUMY.jpg)
+
+A sample application that showcases how different AWS services can be used together to build an end-to-end modern, scalable, and secure web application. AWS services used include CodeCommit, IAM, Amplify, Cognito, Lambda, API Gateway, and DynamoDB.
+
 # [Project 1: Sentiment Analysis on U.S Airline Tweets](https://github.com/issacdtjs/Sentiment-Analysis)
 ![alt text](damian-hutter-4jUK5aiSNPM-unsplash.jpg)
 
