@@ -26,7 +26,7 @@
 
 A sample application that showcases how different AWS services can be used together to build an end-to-end modern, scalable, and secure web application. AWS services used include CodeCommit, IAM, Amplify, Cognito, Lambda, API Gateway, and DynamoDB.
 
-# [Project 1: Sentiment Analysis on U.S Airline Tweets](https://github.com/issacdtjs/Sentiment-Analysis)
+# [Project 2: Sentiment Analysis on U.S Airline Tweets](https://github.com/issacdtjs/Sentiment-Analysis)
 ![alt text](damian-hutter-4jUK5aiSNPM-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@thepuzzlers_damian?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Damian Hutter</a> on <a href="https://unsplash.com/photos/two-american-airlines-planes-on-airport-4jUK5aiSNPM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -42,7 +42,7 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 #### Project Source Code: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Sentiment-Analysis/main?labpath=SentimentAnalysis.ipynb)
 
-# [Project 2: Anomaly Detection of Carbon Dioxide Flux using Unsupervised Outlier Detection Algorithms](https://github.com/issacdtjs/Outlier-Detection)
+# [Project 3: Anomaly Detection of Carbon Dioxide Flux using Unsupervised Outlier Detection Algorithms](https://github.com/issacdtjs/Outlier-Detection)
 ![alt text](tyler-casey-ficbiwfOPSo-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@tylercaseyprod?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tyler Casey</a> on <a href="https://unsplash.com/photos/white-windmill-during-daytime-ficbiwfOPSo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -58,7 +58,7 @@ The best model in terms of area under the curve receiver operating characteristi
 #### Quality Expert Opinion labeling:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Outlier-Detection/main?labpath=Outlier+Detection+%28Quality+Expert+Opinion+Labeling%29.ipynb)
 
-# [Project 3: Music Genre Classification for Spotify Tracks](https://github.com/issacdtjs/Music-Genre-Classification)
+# [Project 4: Music Genre Classification for Spotify Tracks](https://github.com/issacdtjs/Music-Genre-Classification)
 ![alt text](thibault-penin-b5ioGEe8j04-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@thibaultpenin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Thibault Penin</a> on <a href="https://unsplash.com/photos/a-person-holding-a-laptop-in-the-dark-b5ioGEe8j04?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
