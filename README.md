@@ -37,7 +37,7 @@ This project conducted sentiment analysis on a dataset – U.S airline tweets re
 * **Output:** Sentiment of Tweets
 
 #### Model Deploy as Web App:
-<https://sentiment-analysis-tweets.streamlit.app/>
+<https://sentiment-analysis-app-xihurzwy4mnnfxjedtpgfq.streamlit.app/>
 
 #### Project Source Code: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/issacdtjs/Sentiment-Analysis/main?labpath=SentimentAnalysis.ipynb)
